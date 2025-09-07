@@ -9,5 +9,5 @@ return {
     ["Jewelery"] = true,
     ["Plane"] = true,
     ["Pyramid"] = true,
-    ["Resort"] = true,
+    ["Casino"] = true,
 }
