@@ -6,7 +6,7 @@ return {
     ["KEY"] = "",
     ["Bank"] = true,
     ["Club"] = true,
-    ["Jewelery"] = true,
+    ["Jewelry"] = true,
     ["Plane"] = true,
     ["Pyramid"] = true,
     ["Casino"] = true,
