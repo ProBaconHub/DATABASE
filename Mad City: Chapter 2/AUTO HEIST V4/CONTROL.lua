@@ -1,6 +1,6 @@
 return {
     ["ENABLED"] = true,
-    ["VERSION"] = "b4.0.0_1D7B4B7B711",
+    ["VERSION"] = "b4.1.0_2F2BBDF902",
     ["Bank"] = true,
     ["Club"] = true,
     ["Jewelery"] = true,
